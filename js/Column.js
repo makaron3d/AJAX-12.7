@@ -59,3 +59,4 @@ Column.prototype = {
         //this.element.remove();
 	}
 };
+
